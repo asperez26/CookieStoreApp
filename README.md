@@ -49,7 +49,7 @@ Data is shared across views using the `DataManager` singleton.
 
 **Andrea Selina Perez**  
 📍 Seneca Polytechnic – Computer Programming (iOS & Data Structures focus)  
-📫 [asperez@myseneca.ca](mailto:andreaselinaperez26@gmail.com)  
+📫 [andreaselinaperez26@gmail.com](mailto:andreaselinaperez26@gmail.com)  
 🌐 [GitHub Profile](https://github.com/asperez26)
 
 ---
