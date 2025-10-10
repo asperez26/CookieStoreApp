@@ -51,8 +51,10 @@ Data is shared across views using the `DataManager` singleton.
 <details>
   <summary>🔒 View Additional Screens</summary>
 
-  ![Login](screenshots/09_Login.png)
-  ![Account](screenshots/10_Account.png)
+| Login | Account |
+|:--:|:--:|
+| ![Login](screenshots/09_Login.png) | ![Account](screenshots/10_Account.png) |
+
 </details>
 
 > The Pink Box Bakery is an iOS app built with Swift and UIKit that lets users browse, customize, and order cookies with a fun, pink-themed interface.  
