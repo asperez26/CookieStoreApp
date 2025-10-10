@@ -40,8 +40,9 @@ Data is shared across views using the `DataManager` singleton.
 
 ## 🧁 App Preview
 
-> *(Add screenshots or screen recording links here later)*  
-> You can use the “Upload files” option on GitHub to include images like `screenshots/home.png` and `screenshots/cart.png`.
+| Home | Best Sellers | Menu | Add to Cart |
+|:--:|:--:|:--:|:--:|
+| ![Home](screenshots/01_Home.png) | ![Best Sellers](screenshots/02_BestSellers.png) | ![Menu](screenshots/03_Menu.png) | ![Add to Cart](screenshots/04_AddToCart.png) |
 
 ---
 
